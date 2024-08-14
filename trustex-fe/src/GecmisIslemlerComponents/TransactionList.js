@@ -74,8 +74,8 @@ const TransactionList = () => {
           <TableHead>
             <TableRow>
               <StyledTableCell><Typography variant="h6">Alınan Döviz Cinsi</Typography></StyledTableCell>
-              <StyledTableCell><Typography variant="h6">Alınan Miktar&nbsp;(g)</Typography></StyledTableCell>
-              <StyledTableCell><Typography variant="h6">İşlem Tutarı&nbsp;(g)</Typography></StyledTableCell>
+              <StyledTableCell><Typography variant="h6">Alınan Miktar&nbsp;</Typography></StyledTableCell>
+              <StyledTableCell><Typography variant="h6">İşlem Tutarı&nbsp;</Typography></StyledTableCell>
               <StyledTableCell><Typography variant="h6">İşlem Türü</Typography></StyledTableCell>
             </TableRow>
           </TableHead>

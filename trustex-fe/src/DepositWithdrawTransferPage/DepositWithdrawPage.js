@@ -397,6 +397,7 @@ function DepositWithdrawPage() {
                             <button
                                 className={`transfer-button ${!isDeposit ? 'active' : ''}`}
                                 onClick={handleWithdrawClick}
+                                
                             >
                                 Çek
                             </button>
@@ -498,8 +499,9 @@ function DepositWithdrawPage() {
                                         className="large-input"
                                         value={withdrawAmount}
                                         onChange={handleWithdrawAmountChange}
+                                        
                                     />
-                                    <Button variant="contained" onClick={handleTransactionSubmit} size="large">Çek</Button>
+                                    <Button variant="contained" onClick={handleTransactionSubmit} size="large" >Çek</Button>
                                 </div>
                             </div>
                         )}
