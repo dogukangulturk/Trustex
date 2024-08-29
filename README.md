@@ -3,10 +3,10 @@
 ## Description (Açıklama)
 
 ### English
-Trustex is a backend service for a financial application that allows users to manage their assets, perform currency exchanges, and handle transfers between accounts. The service integrates with external APIs to update exchange rates and maintains a secure database of users, transactions, and assets.
+Trustex is a secure foreign exchange trading platform where users and brokerage firms can safely carry out foreign exchange transactions and manage transactions such as buying, selling and transfer transactions.
 
 ### Türkçe
-Trustex, kullanıcıların varlıklarını yönetmelerine, döviz değişimleri yapmalarına ve hesaplar arası transferleri gerçekleştirmelerine olanak tanıyan bir finansal uygulama için bir backend hizmetidir. Bu hizmet, döviz kurlarını güncellemek için harici API'lerle entegre olur ve kullanıcıların, işlemlerin ve varlıkların güvenli bir veritabanını tutar.
+Trustex, kullanıcıların ve aracı kurumların güvenle döviz işlemlerini gerçekleştirebileceği alım satım ve transfer işlemleri gibi işleri yönetebileceği güvenli bir döviz alım satım platformudur.
 
 ## Features (Özellikler)
 
