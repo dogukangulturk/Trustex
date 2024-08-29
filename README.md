@@ -1,4 +1,4 @@
-# Trustex Backend
+# Trustex
 
 ## Description (Açıklama)
 
